@@ -23,6 +23,7 @@ Here's a few of them:
 
 
 📫 How to reach me:
+- links: https://linktr.ee/Solana_Token_Merger
 - Instagram: https://www.instagram.com/solana_token_merger
 - Telegram: https://t.me/SolanaTokenMerger
 - Discord: https://discord.gg/AwEEuyEC
