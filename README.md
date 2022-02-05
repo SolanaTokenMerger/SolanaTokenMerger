@@ -25,4 +25,4 @@ Here's a few of them:
 📫 How to reach me:
 - Instagram: https://www.instagram.com/solana_token_merger
 - Telegram: https://t.me/SolanaTokenMerger
-
+- Discord: https://discord.gg/AwEEuyEC
