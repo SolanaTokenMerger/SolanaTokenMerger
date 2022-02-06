@@ -7,6 +7,7 @@ Here's a few of them:
 - https://github.com/solana-labs/token-list/pull/16303
 - https://github.com/solana-labs/token-list/pull/16298
 - https://github.com/solana-labs/token-list/pull/16029
+- https://github.com/solana-labs/token-list/pull/17367
 
 
 👋 How it works: 
