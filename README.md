@@ -13,6 +13,7 @@ Here's a few of them:
 - https://github.com/solana-labs/token-list/pull/17666
 - https://github.com/solana-labs/token-list/pull/17908
 - https://github.com/solana-labs/token-list/pull/17936
+- https://github.com/solana-labs/token-list/pull/17948
 
 
 👋 How it works: 
