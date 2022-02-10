@@ -14,6 +14,7 @@ Here's a few of them:
 - https://github.com/solana-labs/token-list/pull/17908
 - https://github.com/solana-labs/token-list/pull/17936
 - https://github.com/solana-labs/token-list/pull/17948
+- https://github.com/solana-labs/token-list/pull/17983
 
 
 👋 How it works: 
