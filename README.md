@@ -32,3 +32,4 @@ Here's a few of them:
 - Instagram: https://www.instagram.com/solana_token_merger
 - Telegram: https://t.me/SolanaTokenMerger
 - Discord: https://discord.gg/AwEEuyEC
+- Mail: solanatokenmerger@gmail.com
