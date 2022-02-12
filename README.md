@@ -2,7 +2,6 @@ Getting your PR to automerge in token-list is a daunting task for many, no matte
 If you need to get your token-listed quickly so that you could focus on distributing it, you are in the right place! I have helped many tokens get listed on Solana. 
 Here's a few of them (Updated):
 
-- https://github.com/solana-labs/token-list/pull/17666
 - https://github.com/solana-labs/token-list/pull/17908
 - https://github.com/solana-labs/token-list/pull/17936
 - https://github.com/solana-labs/token-list/pull/17948
@@ -12,6 +11,7 @@ Here's a few of them (Updated):
 - https://github.com/solana-labs/token-list/pull/18074/commits/b12c9a1b3b85100e797daad4afcc4e58e1841634
 - https://github.com/solana-labs/token-list/pull/18285/commits/3e3c2ee506889b47f97171c0edb2421dbd976af7
 - https://github.com/solana-labs/token-list/pull/18347/commits/86caa8d2b524e130a36f374d29e45e8942d99044
+- https://github.com/solana-labs/token-list/pull/18408/commits/084a36935297a72bdfc3132d4ceac9849405f132
 
 
 👋 How it works: 
