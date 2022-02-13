@@ -13,7 +13,7 @@ Here's a few of them (Updated):
 - https://github.com/solana-labs/token-list/pull/18445/commits/ab8749f98ab860cc9aceb24e1284e68fed6f47db
 - https://github.com/solana-labs/token-list/pull/18548/files
 - https://github.com/solana-labs/token-list/pull/18584/commits/075d74da3d48dd57220a29911d95533d01f3d4aa
-- https://github.com/solana-labs/token-list/pull/18598/commits/2b571d27dfb25936ca15c0e69f9a72a52572540b
+- https://github.com/solana-labs/token-list/pull/18609/commits/67673f5d1b37628bfe2ccdbd7256623e702e6777
 
 
 👋 How it works: 
