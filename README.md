@@ -32,5 +32,5 @@ Here's a few of them (Updated):
 - links: https://linktr.ee/Solana_Token_Merger
 - Instagram: https://www.instagram.com/solana_token_merger
 - Telegram: https://t.me/SolanaTokenMerger
-- Discord: https://discord.gg/AwEEuyEC
+- Discord: https://discord.gg/PvXGZbWu
 - Mail: solanatokenmerger@gmail.com
