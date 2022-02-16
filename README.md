@@ -1,6 +1,6 @@
 Getting your PR to automerge in token-list is a daunting task for many, no matter how many times you submit a PR it gets rejected for some reason. 
 If you need to get your token-listed quickly so that you could focus on distributing it, you are in the right place! I have helped many tokens get listed on Solana. 
-Here's a few of them (Updated):
+Here's a few of them:
 
 
 - https://github.com/solana-labs/token-list/pull/18074/commits/b12c9a1b3b85100e797daad4afcc4e58e1841634
@@ -13,7 +13,6 @@ Here's a few of them (Updated):
 - https://github.com/solana-labs/token-list/pull/18584/commits/075d74da3d48dd57220a29911d95533d01f3d4aa
 - https://github.com/solana-labs/token-list/pull/18609/commits/67673f5d1b37628bfe2ccdbd7256623e702e6777
 - https://github.com/solana-labs/token-list/pull/18707/commits/e522aa7be654b390b41baf3d8dc45fad92c9cb8a
-- https://github.com/solana-labs/token-list/pull/18750/commits/b8b4e3a01ea4183a89dafb9a2bc65b8f1518f6c2
 
 
 👋 How it works: 
@@ -31,7 +30,4 @@ Here's a few of them (Updated):
 
 📫 How to reach me:
 - links: https://linktr.ee/Solana_Token_Merger
-- Instagram: https://www.instagram.com/solana_token_merger
-- Telegram: https://t.me/SolanaTokenMerger
-- Discord: https://discord.gg/PvXGZbWu
 - Mail: solanatokenmerger@gmail.com
