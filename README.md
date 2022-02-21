@@ -22,7 +22,7 @@ Here's a few of them:
 - Done!
 
 
-💞️ Prices:
+💰 Prices:
 - Token Creation 50$
 - Token Merge in Solana List 50$
 - Token Creation + Token Merge in Solana List 75$
