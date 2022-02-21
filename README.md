@@ -3,7 +3,6 @@ If you need to get your token-listed quickly so that you could focus on distribu
 Here's a few of them:
 
 
-- https://github.com/solana-labs/token-list/pull/18285/commits/3e3c2ee506889b47f97171c0edb2421dbd976af7
 - https://github.com/solana-labs/token-list/pull/18347/commits/86caa8d2b524e130a36f374d29e45e8942d99044
 - https://github.com/solana-labs/token-list/pull/18408/commits/084a36935297a72bdfc3132d4ceac9849405f132
 - https://github.com/solana-labs/token-list/pull/18424/commits/290279a584ca8e2283b5116d7e1959c6a1fb29f4
@@ -13,6 +12,7 @@ Here's a few of them:
 - https://github.com/solana-labs/token-list/pull/18609/commits/67673f5d1b37628bfe2ccdbd7256623e702e6777
 - https://github.com/solana-labs/token-list/pull/18707/commits/e522aa7be654b390b41baf3d8dc45fad92c9cb8a
 - https://github.com/solana-labs/token-list/pull/19027/commits/0ef421fdaa4eb788becaeffad6d4373195e332fe
+- https://github.com/solana-labs/token-list/pull/19530/commits/49cba774ae7d7adf063f6ba3027c808837f994fe
 
 
 👋 How it works: 
