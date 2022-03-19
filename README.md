@@ -12,7 +12,7 @@ Here's a few of them:
 - https://github.com/solana-labs/token-list/pull/19027/commits/0ef421fdaa4eb788becaeffad6d4373195e332fe
 - https://github.com/solana-labs/token-list/pull/19530/commits/49cba774ae7d7adf063f6ba3027c808837f994fe
 - https://github.com/solana-labs/token-list/pull/20872/commits/6d50bc14bb1d81a522111bcbbda7a8c52bced3ea
-- https://github.com/solana-labs/token-list/pull/22537/commits/fd8cf967c718395a4a3be298cfb049922a018e82
+
 
 
 👋 How it works: 
